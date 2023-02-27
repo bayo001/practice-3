@@ -1,0 +1,185 @@
+.general{
+            
+           margin-left: 10em;   
+           background-image: url(image/bg-pattern-top-desktop.svg);
+           font-size: small;
+           
+        
+        
+         
+}
+
+  
+
+
+.one{
+    color: rgb(15, 15, 185);
+    font-family: 'League Spartan', sans-serif;
+  
+  
+}
+.tree{
+    width: 15em; 
+    padding: 1em 2em; 
+  background-color: rgb(219, 212, 202);
+  margin-left: 30em;
+  margin-left: 49em;
+  padding-left: 6em;
+  border-radius: 10px;
+ 
+}
+.four{
+    width: 15em; 
+      padding: 1em 2em; 
+    background-color: rgb(219, 212, 202);
+    margin-left: 30em;
+    margin-left: 51em;
+    padding-left: 6em;
+    border-radius: 10px;
+}
+
+
+.anas{
+     
+  background-color: rgb(58, 7, 58);
+   width: 18em ;
+   padding: 10px 2em ;
+   border-radius: 1em;
+   height: 12em;
+   font-size: 14px;
+   color: white;
+   gap: 23px;
+   
+   
+  
+
+}
+
+.coiw{
+
+  border-radius: 3em;
+  height: 30px;
+   margin-top: 15px; 
+   font-size: 15px;
+  
+   
+}
+.yui{
+display: flex;
+gap: 2em;
+
+}
+
+.abdul{
+   display: flex;
+  gap: 1em;
+}
+.muf{
+
+  display: flex;
+  gap: 1em;
+}
+
+.hasim{
+
+  background-color: rgb(58, 7, 58);
+  width: 18em ;
+  padding: 10px 2em ;
+  border-radius: 1em;
+  height: 12em;
+  font-size: 14px;
+  color: white;
+  gap: 23px;
+  margin-top: 1em;
+  
+}
+.ayo{
+      
+  border-radius: 3em;
+  height: 30px;
+   margin-top: 15px; 
+   font-size: 15px;
+
+}
+.bayo{
+  
+  display: flex;
+  gap: 1em;
+
+}
+.akande{
+
+  display: flex;
+  gap: 1em;
+
+}
+.alake{
+
+  background-color: rgb(58, 7, 58);
+  width: 18em ;
+  
+  padding: 10px 2em ;
+   border-radius: 1em; 
+  height: 12em;
+  font-size: 14px;
+  color: white;
+  gap: 23px;
+  margin-top: 2em;
+}
+.wale{
+
+  border-radius: 3em; 
+  height: 30px;
+   margin-top: 15px; 
+   font-size: 15px;
+
+}
+.wahab{
+
+gap: 3em;
+}
+.qw{
+  padding-top: 12em;
+}
+
+
+.semiyu{
+
+background-color: rgb(219, 212, 202);;
+width: 29em;
+height: 30px;
+display: flex;
+margin-left: 39em;
+
+border-radius: 10px;
+
+
+
+}
+
+.tolani{ 
+  gap: 36em; 
+}
+
+.semiyu2{
+  background-color: rgb(219, 212, 202);;
+  width: 29em;
+  height: 30px;
+  display: flex;
+  margin-left: 41em;
+
+  margin-top: 1em;
+  border-radius: 10px;
+  
+}
+.semiyu3{
+  background-color: rgb(219, 212, 202);;
+  width: 29em;
+  height: 30px;
+  display: flex;
+  margin-left: 42em;
+
+ margin-top: 1em;
+  border-radius: 10px;
+   
+}
